@@ -79,6 +79,7 @@ if let behaviorString = awsomeString {
 }
 
 //5.3 SWITCH..CASE
+let movieGenre = "Comedy"
 
 
 /* Example:6 Interface/Traits Definition */
